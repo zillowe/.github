@@ -20,11 +20,9 @@ And our vision is to build a community of developers who share our vision and va
 
 Feel free to reach out through any of our social media platforms.
 
-<img alt="X logo" width="15" src="https://gitlab.com/zillowe/gitlab-profile/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweFdn](https://x.com/ZilloweFdn)
-
 <img alt="Bluesky logo" width="15" src="https://gitlab.com/zillowe/gitlab-profile/-/raw/main/assets/img/social/bluesky.svg"/> Bluesky: [@zillowe.qzz.io](https://bsky.app/profile/zillowe.qzz.io)
 
-<img alt="Discord logo" width="15" src="https://gitlab.com/zillowe/gitlab-profile/-/raw/main/assets/img/social/discord.svg"/> Discord: [Server](https://discord.gg/P4R7yaA3hf)
+<img alt="Matrix logo" width="15" src="https://gitlab.com/zillowe/gitlab-profile/-/raw/main/assets/img/social/matrix.svg"/> Matrix Community: [#zillowe:matrix.org](https://matrix.to/#/#zillowe:matrix.org)
 
 <img alt="Email icon" width="15" src="https://gitlab.com/zillowe/gitlab-profile/-/raw/main/assets/img/social/email.svg"/> Email: [contact@zillowe.qzz.io](mailto:contact@zillowe.qzz.io)
 
